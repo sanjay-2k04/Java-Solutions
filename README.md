@@ -42,12 +42,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
