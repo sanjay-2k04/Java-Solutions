@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
@@ -68,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
