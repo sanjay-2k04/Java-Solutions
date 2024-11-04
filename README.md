@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+## String
+|  |
+| ------- |
+| [3451-string-compression-iii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3451-string-compression-iii) |
 <!---LeetCode Topics End-->
