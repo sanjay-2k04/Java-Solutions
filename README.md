@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3451-string-compression-iii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3451-string-compression-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
