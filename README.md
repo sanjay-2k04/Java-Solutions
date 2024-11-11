@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Graph
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Matrix
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
