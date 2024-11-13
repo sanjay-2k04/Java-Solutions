@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Matrix
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
