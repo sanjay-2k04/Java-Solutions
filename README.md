@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3451-string-compression-iii) |
 ## Database
