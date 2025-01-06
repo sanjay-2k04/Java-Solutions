@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
