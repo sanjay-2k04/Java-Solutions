@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
