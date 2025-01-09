@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0020-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
