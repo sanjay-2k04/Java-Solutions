@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0507-perfect-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0507-perfect-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
