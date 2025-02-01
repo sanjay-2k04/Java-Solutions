@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0507-perfect-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0020-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1524-string-matching-in-an-array) |
