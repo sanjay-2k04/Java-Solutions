@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1524-string-matching-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
