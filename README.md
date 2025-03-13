@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
