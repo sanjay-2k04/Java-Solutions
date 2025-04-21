@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Bit Manipulation
 |  |
