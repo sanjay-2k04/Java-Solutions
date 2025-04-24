@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2716-prime-subtraction-operation) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3427-special-array-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
