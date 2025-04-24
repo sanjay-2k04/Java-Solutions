@@ -1,18 +1,20 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        int left = 0, res = 0;
-        int k = (int) Arrays.stream(nums).distinct().count();
-        Map<Integer, Integer> mpp = new HashMap<>();
+        Set<Integer> unique = new HashSet<>();
+        for (int num : nums) unique.add(num);
+        int totalDistinct = unique.size(), count = 0, n = nums.length;
 
-        for (int i = 0; i < nums.length; ++i) {
-            mpp.put(nums[i], mpp.getOrDefault(nums[i], 0) + 1);
-            while (mpp.size() == k) {
-                res += nums.length - i;
-                mpp.put(nums[left], mpp.get(nums[left]) - 1);
-                if (mpp.get(nums[left]) == 0) mpp.remove(nums[left]);
-                left++;
+        for (int i = 0; i < n; i++) {
+            Set<Integer> seen = new HashSet<>();
+            for (int j = i; j < n; j++) {
+                seen.add(nums[j]);
+                if (seen.size() == totalDistinct) {
+                    count += n - j;
+                    break;
+                }
             }
         }
-        return res;
+
+        return count;
     }
 }
