@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1940-maximum-xor-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2048-build-array-from-permutation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -268,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
