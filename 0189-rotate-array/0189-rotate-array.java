@@ -1,15 +1,26 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        k = k % n;
-        int[] rotated = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            rotated[(i + k) % n] = nums[i];
+        // Handle edge cases
+        
+        // Normalize k in case it's larger than array length
+        k = k % nums.length;
+        
+        if (k == 0) {
+            return; // No rotation needed
         }
-
-        for (int i = 0; i < n; i++) {
-            nums[i] = rotated[i];
-        }        
+        
+        // Create a temporary array to hold rotated values
+        int[] temp = new int[nums.length];
+        
+        // Copy elements to rotated positions
+        for (int i = 0; i < nums.length; i++) {
+            int newPosition = (i + k) % nums.length;
+            temp[newPosition] = nums[i];
+        }
+        
+        // Copy back to original array
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = temp[i];
+        }
     }
 }
