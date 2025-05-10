@@ -1,13 +1,6 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        // Handle edge cases
         
-        // Normalize k in case it's larger than array length
-        k = k % nums.length;
-        
-        if (k == 0) {
-            return; // No rotation needed
-        }
         
         // Create a temporary array to hold rotated values
         int[] temp = new int[nums.length];
