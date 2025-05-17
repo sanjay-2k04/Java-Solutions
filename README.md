@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0038-count-and-say) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2048-build-array-from-permutation) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
