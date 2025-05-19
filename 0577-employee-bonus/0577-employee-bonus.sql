@@ -1,8 +1,8 @@
 SELECT 
 Employee.name, Bonus.bonus
-FROM 
-Employee 
+From 
+Employee
 LEFT OUTER JOIN
-Bonus ON Employee.empid = Bonus.empid
+bonus ON Employee.empid = Bonus.empid
 WHERE 
-bonus < 1000 OR bonus IS NULL;
+bonus < 1000 OR  bonus IS NULL;
