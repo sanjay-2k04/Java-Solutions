@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0072-edit-distance) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0072-edit-distance) |
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1524-string-matching-in-an-array) |
