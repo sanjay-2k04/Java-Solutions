@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
 | [0507-perfect-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0391-perfect-rectangle](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
