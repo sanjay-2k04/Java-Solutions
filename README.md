@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
@@ -338,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
