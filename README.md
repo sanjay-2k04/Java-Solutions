@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
