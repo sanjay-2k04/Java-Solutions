@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
 | [0797-rabbits-in-forest](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0797-rabbits-in-forest) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0391-perfect-rectangle](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
