@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
