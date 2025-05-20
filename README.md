@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -317,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0214-shortest-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
