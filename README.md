@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
 |  |
