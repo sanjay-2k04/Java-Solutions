@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -293,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sanjay-2k04/Java-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Simulation
 |  |
 | ------- |
@@ -352,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
