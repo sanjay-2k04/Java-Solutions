@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
+| [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
+| [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
