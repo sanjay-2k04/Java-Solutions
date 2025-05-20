@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1063-best-sightseeing-pair) |
