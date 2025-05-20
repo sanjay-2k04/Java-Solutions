@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0458-poor-pigs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0458-poor-pigs) |
 | [0507-perfect-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0552-student-attendance-record-ii) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## String Matching
 |  |
