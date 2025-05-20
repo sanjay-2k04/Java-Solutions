@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Data Stream
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Line Sweep
 |  |
 | ------- |
