@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0212-word-search-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0212-word-search-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Binary Search
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2048-build-array-from-permutation) |
 ## Trie
