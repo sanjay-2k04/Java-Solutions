@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0507-perfect-number](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1642-water-bottles](https://github.com/sanjay-2k04/Java-Solutions/tree/master/1642-water-bottles) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0575-distribute-candies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0575-distribute-candies) |
 | [0797-rabbits-in-forest](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0797-rabbits-in-forest) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sanjay-2k04/Java-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Data Stream
 |  |
 | ------- |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0335-self-crossing) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
