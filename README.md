@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0552-student-attendance-record-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
