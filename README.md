@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0072-edit-distance) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0233-number-of-digit-one) |
+| [0312-burst-balloons](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0546-remove-boxes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0312-burst-balloons](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0407-trapping-rain-water-ii](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sanjay-2k04/Java-Solutions/tree/master/0410-split-array-largest-sum) |
